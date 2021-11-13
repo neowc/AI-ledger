@@ -1,4 +1,6 @@
 # AI-ledger
 ### :atom: Welcome!
-![This is an image](/gopher-unicorn.png)
 AI Research with Blockchain @ NTU
+
+![This is an image](/gopher-unicorn2.png)
+
