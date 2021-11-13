@@ -1,4 +1,4 @@
 # AI-ledger
-## 👋 Welcome!
+### :atom: Welcome!
 
 AI Research with Blockchain @ NTU
